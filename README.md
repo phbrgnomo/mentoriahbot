@@ -16,14 +16,14 @@ sudo curl -s https://raw.githubusercontent.com/phbrgnomo/mentoriahbot/main/scrip
 
 ### Scripts Disponíveis
 
-> **Docker** *(Pré-requisito)*
->
-> `installdocker_ubuntu.sh` e `installdocker_debian.sh`
->
-> Instalação do Docker, para cada sistema específico
-> 
-> **Oh-my-zsh** - *(opcional)*
->
-> `installzsh.sh`
->
-> Terminal Zsh, com visual mais agradável, e plugins úteis. 
+ **Docker** *(Pré-requisito)*
+
+ `installdocker_ubuntu.sh` e `installdocker_debian.sh`
+
+ Instalação do Docker, para cada sistema específico
+ 
+ **Oh-my-zsh** - *(opcional)*
+
+ `installzsh.sh`
+
+ Terminal Zsh, com visual mais agradável, e plugins úteis. 
